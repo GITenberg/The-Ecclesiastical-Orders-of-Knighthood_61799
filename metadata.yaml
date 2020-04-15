@@ -1,11 +1,16 @@
 _repo: The-Ecclesiastical-Orders-of-Knighthood_61799
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61799-h/images/cover.jpg
 creator:
   author:
     agent_name: Veldt, James Van der
     gutenberg_agent_id: '51617'
     url: http://www.gutenberg.org/2009/agents/51617
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61799#The-Ecclesiastical-Orders-of-Knighthood
 gutenberg_issued: '2020-04-10'
 gutenberg_type: Text
 identifiers:
